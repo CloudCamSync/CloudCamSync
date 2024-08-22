@@ -1,6 +1,6 @@
 # CloudCamSync
 
-CloudCamSync是一款开源的监控视频自动备份工具，其有一部分代码来源于开源项目CameraNVR，支持将监控视频上传到多种云存储服务，包括百度网盘、Google Drive和OneDrive。该工具旨在为用户提供一个多功能、灵活的解决方案，帮助用户管理和备份监控摄像头的视频数据。该软件主要作用是省钱：（1）将实时产生的监控视频上传到云端，节省本地存储的费用（2）软件很小，可在任何支持python的环境中运行，节省设备的费用。
+CloudCamSync是一款开源的监控视频自动备份工具，其有一部分代码来源于开源项目CameraNVR(https://github.com/topak47/CameraNVR)，支持将监控视频上传到多种云存储服务，包括百度网盘、Google Drive和OneDrive。该工具旨在为用户提供一个多功能、灵活的解决方案，帮助用户管理和备份监控摄像头的视频数据。该软件主要作用是省钱：（1）将实时产生的监控视频上传到云端，节省本地存储的费用（2）软件很小，可在任何支持python的环境中运行，节省设备的费用。
 
 
 # 主要功能
@@ -45,7 +45,7 @@ CloudCamSync相比于CameraNVR，提供了以下新增和改进的功能：
 
 感谢各位大佬的分享的参考源码：
 
-https://github.com/nellwhoami/CameraNVR
+https://github.com/topak47/CameraNVR
 
 https://github.com/wfxzf/pyNvr
 
