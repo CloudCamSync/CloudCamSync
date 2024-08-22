@@ -38,7 +38,7 @@ CloudCamSync相比于CameraNVR，提供了以下新增和改进的功能：
 1、阿里云盘支持：CloudCamSync中移除了对阿里云盘的支持，改为支持Google Drive和OneDrive。因为阿里云盘不支持上传加密压缩包。  
 本地视频分类细化：虽然CloudCamSync仍然支持按运动检测和全时段录制进行视频分类，但对本地文件夹结构的管理有所简化，减少了对不同视频类别的细粒度控制。
 
-#其他  
+# 其他  
 本软件优化了云存储的功能。软件的重点功能在云存储与同步功能。为突出软件的重点，将软件名更改为CloudCamSync。
 
 作者声明：使用本软件时，用户必须遵守所在国的法律以及云盘供应商的规定。作者坚决反对任何利用该程序进行违法犯罪的行为，包括但不限于侵犯他人隐私。由于个人能力有限，本源码可能存在缺陷，无法保证其在所有环境下正常运行。请勿将其用于商业用途，对于因使用该源码导致的任何问题，作者概不负责，仅供学习和参考之用。特别注意：涉及隐私的视频请勿使用本源码进行处理，上传到网盘可能存在泄露风险！
@@ -51,7 +51,6 @@ https://github.com/wfxzf/pyNvr
 
 https://github.com/houtianze/bypy
 
-https://github.com/foyoux/aligo
 
 
 
@@ -59,6 +58,8 @@ https://github.com/foyoux/aligo
 
 # 使用教程(以下为CloudCamSync的教程，有部分修改自CameraNVR作者所撰写的CameraNVR的使用教程。可供参考。)
 [![监控视频，自动备份到百度网盘和阿里云盘！](https://res.cloudinary.com/marcomontalbano/image/upload/v1692928086/video_to_markdown/images/youtube--hWiwCpJyk0M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hWiwCpJyk0M "监控视频，自动备份到百度网盘和阿里云盘！")
+
+(视频来自于CameraNVR)
 
 
 # 安装教程
