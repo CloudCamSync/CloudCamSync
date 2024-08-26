@@ -91,6 +91,7 @@ https://github.com/houtianze/bypy
  
         python CloudCamSync.py
 
+程序执行后，会提示输入密码，可自己设定密码并输入，按回车（Enter）继续运行。若没输入密码就按回车，则默认不进行加密。
  运行后可软件会提示上传的结果！测试没问题后，ctrl+z退出运行
 
  #### 7，后台运行程序:
