@@ -111,6 +111,7 @@ https://github.com/houtianze/bypy
 * 端口：“HTTP 端口”（默认为 80）、“RTSP 端口”（默认为 554）、“HTTPS 端 口”（默认 443）和“服务端口”（默认 8000），ONVIF端口 80。
 * 主码流：rtsp://admin:12345@192.0.0.64:554/h264/ch1/main/av_stream
 * 子码流：rtsp://admin:12345@192.0.0.64/mpeg4/ch1/sub/av_stream
+* 萤石无线摄像头RTSP开启方式:https://www.bilibili.com/opus/831468401100587065
 
 #### 2，大华
 * 默认IP地址：192.168.1.108 用户名/密码：admin/admin
