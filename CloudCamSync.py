@@ -8,7 +8,7 @@ import py7zr  # 7zip压缩库
 
 # 配置
 Cameraname = 'videos'  # 摄像头名称
-videopath = 'N:'  # 本地文件路径
+videopath = '/Camera/'  # 本地文件路径
 NVRurl = 'NVRurl'  # 视频流URL 
 videotime = 1  # 录制视频时长（分钟，范围：1-1000）
 Updisk = True  # 是否上传到网盘？（True 表示上传；False 表示不上传）
